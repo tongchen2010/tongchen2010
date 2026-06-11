@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tong Chen 👋
 
-<!--
-**tongchen2010/tongchen2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. candidate in Computer Science at **UT Arlington** (advised by Dr. Dajiang Zhu),
+working on **machine learning for medical imaging** — Alzheimer's disease and
+Lewy body dementia.
 
-Here are some ideas to get you started:
+- 🔬 Self-supervised representation learning for longitudinal brain MRI
+- 🧠 Disease-progression and staging models for AD/LBD
+- 📄 Recent: *NeuroImage* 2026, MICCAI 2025 & 2026 (first author)
+- 🌐 [tongchen2010.github.io](https://tongchen2010.github.io)
+- 📫 txc5603@mavs.uta.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 On the academic job market for positions starting 2027.
